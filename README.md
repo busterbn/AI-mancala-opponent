@@ -1,7 +1,7 @@
 # Play Mancala against my unbeatable AI opponent
 
 ## Description
-In this project i build a terminal version of the classic game of mancala and build an unbeatable AI opponent to play against.
+In this project i build a terminal version of the classic game of mancala and build an unbeatable AI opponent to play against using the minimax algorithm.
 
 ## Repo overview
 ```
