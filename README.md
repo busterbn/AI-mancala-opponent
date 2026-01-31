@@ -1,7 +1,9 @@
-# Board Game with AI opponent
+# Play Mancala against my unbeatable AI opponent
 
-This repository contains the following files with brief explanations:
+## Description
+In this project i build a terminal version of the classic game of mancala and build an unbeatable AI opponent to play against.
 
+## Repo overview
 ```
 02180-Introduction-to-Artificial-Intelligence
 ├── LICENSE         → Contains the legal licensing information for the project.
@@ -23,7 +25,7 @@ in [Docker](https://www.docker.com/). The requirements are thus:
 
 - [🐳 Docker](https://www.docker.com/)
 - [🤖 Just](https://github.com/casey/just)
-  
+
 
 ## Build instructions
 
@@ -54,9 +56,9 @@ Follow these steps to build the project:
 
 5. You should now be prompted to make the first move:
     ```txt
-        4  4  4  4  4  4 
+        4  4  4  4  4  4
     0                        0
-        4  4  4  4  4  4 
+        4  4  4  4  4  4
 
     It's your turn
     Please choose a pit (1-6)
@@ -64,7 +66,7 @@ Follow these steps to build the project:
 
 ## How to interpret the TUI
 ```txt
-    4  4  4  4  4  4 
+    4  4  4  4  4  4
 0 <--(a)                 0 <--(b)
     4  4  4  4  4  4 <--(c)
 ```
